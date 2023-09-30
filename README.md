@@ -1,5 +1,5 @@
 # DCDMF
-The code of the paper "Hyperspectral and Panchromatic images Fusion Based on The Dual Conditional Diffusion Model".
+The code of the paper "Hyperspectral and Panchromatic images Fusion Based on The Dual Conditional Diffusion Model" will be coming soon.
 
 **Note that** we have open source the **Ziyuan dataset** used in this paper. This dataset includes the real LRHSI and PAN images acquired by the ziyuan 1-02d satellite. This dataset also includes the real LRHSI and HRMSI (high resolution multi-spectral image) acquired by the ziyuan 1-02d satellite.
 
